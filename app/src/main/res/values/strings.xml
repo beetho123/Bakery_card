@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bakery shopy</string>
+    <string name="bread_txt"><b>The best bread for you!</b> \n We sell it from the pale dawn.</string>
+    <string name="cake_txt"><b>Delicious cakes!</b>  \n Available in the afternoon</string>
+    <string name="desc">Image with logo and shop picture</string>
+    <string name="open_h1"> 4 A.M.</string>
+    <string name="open_h2"> 1 P.M.</string>
+    <string name="describe_txt"> Baker Street 44D, 43&#8211;100 Tychy, Poland \n <i>phone:</i> +48 506.545.345, www.piekarniaklos.pl</string>
+
+</resources>
